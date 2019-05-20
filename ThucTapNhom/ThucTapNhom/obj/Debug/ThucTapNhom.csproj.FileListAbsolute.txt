@@ -1,0 +1,38 @@
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.pdb
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.exe
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.pdb
+c:\users\pc\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_QLNV.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_PhieuYeuCau.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_ThanhToan.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_ThemKhachHang.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_ChonBanAn.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_DangNhap.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_MenuChucNang.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.GUI.frm_QuanLyThucPham.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.GUI.frm_NhapThucPhamVaoPhieuNhap.resources
+C:\Users\PC\documents\visual studio 2017\Projects\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.GUI.frm_QLMonAn.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe.config
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.pdb
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csprojResolveAssemblyReference.cache
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_ChonBanAn.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_DangNhap.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_MenuChucNang.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.GUI.frm_NhapThucPhamVaoPhieuNhap.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_PhieuYeuCau.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.GUI.frm_QLMonAn.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.GUI.frm_QuanLyThucPham.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_ThanhToan.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_QLNV.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.frm_ThemKhachHang.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.Properties.Resources.resources
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csproj.GenerateResource.cache
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csproj.CoreCompileInputs.cache
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.exe
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.pdb
+F:\Năm 3 kỳ 2\Thực tập nhóm\ThucTapNhomFinal\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.GUI.frm_QLKH.resources
